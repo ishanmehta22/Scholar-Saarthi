@@ -1,4 +1,5 @@
-Scholar Saarthi - Digital Scholarship Portal 🎓
+# Scholar Saarthi - Digital Scholarship Portal 🎓
+
 
 🎥 Model Demonstration :https://youtu.be/_LaZSVyyBUw
 

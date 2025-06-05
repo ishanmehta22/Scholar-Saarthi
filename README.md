@@ -1,1 +1,1 @@
-# PMSS-SIH | 2024
+# Scholar-Saarthi
